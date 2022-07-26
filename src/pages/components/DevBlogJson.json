@@ -1,0 +1,23 @@
+[
+    {
+        "otsikko" : "First Video of the Game",
+        "paivaus" : "24.06.2022",
+        "youtube" : "https://www.youtube.com/embed/Fs4MzDkzAKk",
+        "kuva" : "",
+        "kirjoitus" : "The first video of the game is here. In this video, we will have a look at the submarine changing form from surface-running vessel into below-surface-running vessel. More updates to follow!"
+    },
+    {
+        "otsikko" : "Twitter is active again",
+        "paivaus" : "21.06.2022",
+        "youtube" : "",
+        "kuva" : "",
+        "kirjoitus" : "After a long break, Broken Code Games twitter account is active again and will post updates on the game development progress. This website will remain the primary update site regarding the game, but now there is also presence on Social Media."
+    },
+    {
+        "otsikko" : "External Model of the Submarine is ready",
+        "paivaus" : "20.06.2022",
+        "youtube" : "",
+        "kuva" : "nordenfelt1.png",
+        "kirjoitus" : "The external model of the submarine is completed and the deck mechanics are fully animated; The submarine can alter its form now between surface running mode with chimney extended, flag raised, hatch open and with underwater running with chimney retracted, flag lowered and hatch closed. Video of these features to follow. Pictured above, the internal workings of the submarine. If time and resources allow, these will be modelled as well, however artistic liberties have to be taken in creating them, as this is the only known picture to give a hint on how the vessel looked like from inside."
+    }
+]
