@@ -1,5 +1,12 @@
 [
     {
+        "otsikko" : "Programming the Engine",
+        "paivaus" : "28.6.2022",
+        "youtube" : "",
+        "kuva" : "",
+        "kirjoitus" : "The Nordenfelt Submarine uses Marine Scotch type of Boiler to give it steam power. Scotch Boiler is a type of boiler of relatively good efficiency, but more importantly, it is a compact package and the only type that could realisticly fit inside the submarine's frame while still providing enough heat to generate sufficient amount of power. We are now starting to work on implementing managing the boiler in-game and thus, managing the power you have available for your submarine in the game."
+    },
+    {
         "otsikko" : "First Video of the Game",
         "paivaus" : "24.06.2022",
         "youtube" : "https://www.youtube.com/embed/Fs4MzDkzAKk",
