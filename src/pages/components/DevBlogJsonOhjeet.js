@@ -33,6 +33,13 @@
 
     Jos haluat tekstin uudelle riville sekä tyhjän välin teksteille, lisää <br/><br/> samalla periaatteella
 
+    Jos haluat tekstiin lainausmerkit, lisää \ ennen JOKAISTA tekstiin haluamaasi lainausmerkkiä
+    Esim:
+
+    Opettaja sanoi \"kun minä olin nuori...\"
+
+    Älä lisää näitä Json kirjoitus-osuuden aloittaville ja lopettaville lainausmerkeille, pitäisi herjata puutteesta/virheestä
+
 
 3   Kun olet todennut kaiken toimivaksi, klikkaa terminaali ja paina ctrl + C
     Kirjoita "Y" ja paina enter, sulkee paikallisen dev-serverin
