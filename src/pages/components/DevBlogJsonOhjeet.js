@@ -4,6 +4,7 @@
 
     npm start
 
+    Paikallinen sivu löytyy osoitteesta http://localhost:3000/ (pitäisi myös aueta automaattisesti)
     Tämän avulla saat esikatseltua ja varmistettua että kaikki toimii ennen kuin pusket ne nettiin
 
 
@@ -18,25 +19,25 @@
         "kirjoitus" : ""
     },
 
-2.1 Youtube videon oltava muodossa:
+2.1 Youtube videon linkin oltava muodossa:
     https://www.youtube.com/embed/<videon oma koodi>
     Ei mitään ylimääräisyyksiä linkissä!
 
 2.2 Kuvan lisäämiseksi, lisää haluamasi kuva ensin projektin src/pages/img kansioon
     Kopioi kuvan nimi ja tiedostomuoto kuva osioon (case sensitive, pääset helpommalla kun vain kirjoitat kaiken pienellä, ei kannata käyttää välejä, käytä - välin sijaan)
-    Kaikki normaalit tiedostomuodot pitäisi toimia mutta kokeiltu vain png kanssa, jos pidät tässä tiedostomuodossa ei pitäisi olla ongelmia toimivuuden kanssa
+    Kaikki normaalit kuvatiedostomuodot pitäisi toimia mutta kokeiltu vain png kanssa, jos pidät tässä tiedostomuodossa ei pitäisi olla ongelmia toimivuuden kanssa
 
 2.3 Jos haluat tekstiä uudelle riville, lisää <br/> tekstiin kohtaan mistä haluat uuden rivin, ilman välejä
     Esim:
 
     ...known by its project name.<br/>The Great War to end all wars...
 
-    Jos haluat tekstin uudelle riville sekä tyhjän välin teksteille, lisää <br/><br/> samalla periaatteella
+    Jos haluat tekstin uudelle riville sekä tyhjän rivin, lisää <br/><br/> samalla periaatteella
 
     Jos haluat tekstiin lainausmerkit, lisää \ ennen JOKAISTA tekstiin haluamaasi lainausmerkkiä
     Esim:
 
-    Opettaja sanoi \"kun minä olin nuori...\"
+    "kirjoitus" : "Opettaja sanoi \"kun minä olin nuori...\""
 
     Älä lisää näitä Json kirjoitus-osuuden aloittaville ja lopettaville lainausmerkeille, pitäisi herjata puutteesta/virheestä
 
