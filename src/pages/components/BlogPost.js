@@ -44,17 +44,3 @@ const BlogPost = ({otsikko, paivaus, kirjoitus, kuva, youtube, index}) =>{
 }
 
 export default BlogPost;
-
-/*
-
-JSON blog post template, lisää aina alkuun ennen aikaisempaa { muttä [ jälkeen
-
-{
-    "otsikko" : "",
-    "paivaus" : "",
-    "youtube" : "",
-    "kuva" : "",
-    "kirjoitus" : ""
-},
-
-*/
