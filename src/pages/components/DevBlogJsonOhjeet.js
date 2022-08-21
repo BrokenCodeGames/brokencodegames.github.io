@@ -52,7 +52,7 @@
     "Description" on vapaaehtoinen, voi tarkemmin antaa tietoa muutoksesta
     Alapuolella "Commit to main"
 
-    Ikkunaan tulee uusi kohta "Push commits to the origin remote", paina nappulaa "Push origin"
+    Ohjelmaan tulee uusi kohta "Push commits to the origin remote", paina nappulaa "Push origin", tämä puskee uuden version Atten ladattavaksi
     
 4   Nettisivun puskemiseksi nettiin, kirjoita terminaaliin:
 
