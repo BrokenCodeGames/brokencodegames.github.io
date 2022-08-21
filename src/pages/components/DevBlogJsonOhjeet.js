@@ -32,7 +32,7 @@
 
     ...known by its project name.<br/>The Great War to end all wars...
 
-    Jos haluat tekstin uudelle riville sekä tyhjän rivin, lisää <br/><br/> samalla periaatteella
+    Jos haluat tekstin uudelle riville sekä tyhjän rivin väliin, lisää <br/><br/> samalla periaatteella
 
     Jos haluat tekstiin lainausmerkit, lisää \ ennen JOKAISTA tekstiin haluamaasi lainausmerkkiä
     Esim:
@@ -41,11 +41,18 @@
 
     Älä lisää näitä Json kirjoitus-osuuden aloittaville ja lopettaville lainausmerkeille, pitäisi herjata puutteesta/virheestä
 
-
-3   Kun olet todennut kaiken toimivaksi, klikkaa terminaali ja paina ctrl + C
+2.4 Kun olet todennut kaiken toimivaksi, klikkaa terminaaliin ja paina ctrl + C
     Kirjoita "Y" ja paina enter, sulkee paikallisen dev-serverin
+
+3   Päivitä muutokset GitHubiin GitHub Desktop kautta:
+    Kun olet oikeassa Repositoryssa, ohjelma näyttää automaattisesti mitä muutoksia on tapahtunut alkuperäisestä (vihreä lisäys, punainen poistuva)
+    Jos väärässä Repositoryssa, voit vaihtaa vasemmalta ylhäältä "Current repository" kohdasta (repon nimi pitäisi olla "brokencodegames.github.io")
+
+    Vasemmalla alhaalla "Summary (required)" anna muutokselle nimi (jos olet muuttamassa vain yhtä tiedosto, sanoo automaattisesti esm. "Update DevBlogJson.json")
+    "Description" on vapaaehtoinen, voi tarkemmin antaa tietoa muutoksesta
+    Alapuolella "Commit to main", puskee muutokset GitHubiin Attenkin käytettäväksi
     
-    Nettisivun puskemiseksi nettiin, kirjoita terminaaliin:
+4   Nettisivun puskemiseksi nettiin, kirjoita terminaaliin:
 
     npm run deploy
 
