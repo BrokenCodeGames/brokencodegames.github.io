@@ -50,7 +50,9 @@
 
     Vasemmalla alhaalla "Summary (required)" anna muutokselle nimi (jos olet muuttamassa vain yhtä tiedosto, sanoo automaattisesti esm. "Update DevBlogJson.json")
     "Description" on vapaaehtoinen, voi tarkemmin antaa tietoa muutoksesta
-    Alapuolella "Commit to main", puskee muutokset GitHubiin Attenkin käytettäväksi
+    Alapuolella "Commit to main"
+
+    Ikkunaan tulee uusi kohta "Push commits to the origin remote", paina nappulaa "Push origin"
     
 4   Nettisivun puskemiseksi nettiin, kirjoita terminaaliin:
 
