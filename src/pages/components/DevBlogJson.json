@@ -1,5 +1,12 @@
 [
     {
+        "otsikko" : "Pondering on level of simulation",
+        "paivaus" : "5.07.2022",
+        "youtube" : "",
+        "kuva" : "",
+        "kirjoitus" : "We are currently working on the engine simulation. This brings up choice of level of simulation/realism we want for the game. Technically it could be possible to model everything from need to lubricate bearings and adjusting safety valves of the steam engine or just go with a 2D selectable dial to make engine go fast. Both have their merits and different fanbase. Of course, best possible solution would be an option for the player to choose the desired level of realism. In the end, we probably just end up working with what we have time and resources for."
+    },
+    {
         "otsikko" : "Programming the Engine",
         "paivaus" : "28.6.2022",
         "youtube" : "",

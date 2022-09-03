@@ -41,6 +41,8 @@
 
     Älä lisää näitä Json kirjoitus-osuuden aloittaville ja lopettaville lainausmerkeille, pitäisi herjata puutteesta/virheestä
 
+    Lopuksi muista tallentaa json tiedosto että muutokset toimivat (CTRL + S)
+
 2.4 Kun olet todennut kaiken toimivaksi, klikkaa terminaaliin ja paina ctrl + C
     Kirjoita "Y" ja paina enter, sulkee paikallisen dev-serverin
 
