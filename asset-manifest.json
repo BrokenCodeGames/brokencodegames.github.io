@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3e20ca68.css",
-    "main.js": "/static/js/main.966a0c50.js",
+    "main.js": "/static/js/main.4ef740ab.js",
     "static/media/metal-seamless.jpg": "/static/media/metal-seamless.5109e2fb09c7c8235618.jpg",
     "static/media/nordenfelt1.png": "/static/media/nordenfelt1.69de174f9a262df385da.png",
     "static/media/404.png": "/static/media/404.44509ad78a5cd087c65f.png",
     "static/media/Header.jpg": "/static/media/Header.6ee67bba79026f999190.jpg",
     "index.html": "/index.html",
     "main.3e20ca68.css.map": "/static/css/main.3e20ca68.css.map",
-    "main.966a0c50.js.map": "/static/js/main.966a0c50.js.map"
+    "main.4ef740ab.js.map": "/static/js/main.4ef740ab.js.map"
   },
   "entrypoints": [
     "static/css/main.3e20ca68.css",
-    "static/js/main.966a0c50.js"
+    "static/js/main.4ef740ab.js"
   ]
 }
