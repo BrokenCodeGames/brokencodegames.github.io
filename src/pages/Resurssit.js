@@ -7,7 +7,7 @@ const Resurssit = () => {
 
             
             <p>
-                Not enough minerals
+                This page will eventually contain links to resources related to the game, example information about the submarine and its operations. To be updated.
             </p>
         </div>
     );
